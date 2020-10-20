@@ -1,4 +1,8 @@
 # time series forecasting
+This repo is about teaching you time series forecasting using artificial neural network and though tensorflow 2.0.
+If you want a detailled teaching class about this, please check this video :
+
+https://www.youtube.com/watch?v=3eLpk8EAkM8&amp;ab_channel=JedhaBootcamp
 
 ## Package intallation
 To install needed packages i.e `numpy`, `pandas`, `xlrd`, `tensorflow` and `plotly`,  
